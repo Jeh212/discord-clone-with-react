@@ -9,7 +9,7 @@ function App() {
 
       <Layout />
       <GlobalStyles />
-      <h1>Rockseat</h1>
+    
 
     </>
 
