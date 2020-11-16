@@ -1,6 +1,6 @@
 import React from 'react';
 import {Container,Category,AddCategoryIcon} from './styles'
-// import ChannelButton from '../ChannelButton'
+import ChannelButton from '../ChannelButton'
 
 
 
@@ -14,11 +14,11 @@ const ServerName: React.FC = () => {
                <AddCategoryIcon/>
            </Category>
         
-        {/* <ChannelButton channelName="chat-livre" />
+        <ChannelButton channelName="chat-livre" />
         <ChannelButton channelName="Trabalho" />
         <ChannelButton channelName="Lolzinho" />
         <ChannelButton channelName="Valorant" />
-        <ChannelButton channelName="Counter Strike Global Ofensive" /> */}
+        <ChannelButton channelName="Counter Strike Global Ofensive" />
 
        </Container>
     )
